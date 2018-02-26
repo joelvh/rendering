@@ -35,4 +35,5 @@ Gem::Specification.new do |spec|
 
   # HTML
   spec.add_development_dependency 'auto_html'
+  spec.add_development_dependency 'gyoku' # Ruby Hash to XML
 end
